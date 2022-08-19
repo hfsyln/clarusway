@@ -17,15 +17,13 @@ body, html {
     align-items: center;
     justify-content: center;
     background-size: cover;
-    min-height: 100%;
     background-position: center;
     background-attachment: fixed;
-    
+    height: 100%; 
 }
 
 .background-image1 {
-    background-image: url(./img/bg.jpg);
-    height: 100%;
+    background-image: url(./img/bg.jpg); 
 }
 
 .background-image2{
